@@ -3,20 +3,8 @@
   "notes": "Test version",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x86_64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTTlkQ1crbm4yYlBadFNLVDJWTVQ5WEU0NGh1T3lvVkZUTlRvUURZVG0rU29qcW42Tit2OS9vU2NhNjFvM0ZNc21qUEpxSUVZT0hOVnJtVmVJU3o3WFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNTYxNTM4CWZpbGU6Y29uc29sZS1ydXN0XzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApORmszUXRWSjZ4dEpLNXZ5SzNVS3AxQkl5NFYyNVM3OVZUVEhWWW9HVC9ySTYyekdvZk5OQndWMEdiRzYwZUpjZlpDMVUrQUpvRmFVVHBQcTFZUExBUT09Cg==",
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64-setup.nsis.zip"
     }
   }
