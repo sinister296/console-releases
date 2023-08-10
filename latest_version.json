@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQSs5c2NWVnhrTS8zeUZjbG4zb2NPbVlwTFNvTXlDVWdoTXpuNnZpMDJmdTNLeEJHeEswSVlyL21VNThGem9YSnQ0UmFjL3ZNNzgxQXU2Y0o0UUpDN1ZWU0lGMCtxSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxNjUwNTQ4CWZpbGU6Y29uc29sZS1ydXN0XzAuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApkeVNpRjBhSjhwOHk0bkNVKzFmQ3dQbU9MRThvd2lLL24xOElDSGdaaHlwcno2RWxJSWJnb25uNERXUS9uUmY5ZExkWHdjaHRaK1FucFhDYVhOdFVBUT09Cg==",
-      "url": "https://github.com/sinister296/console-rust/releases/tag/v0.1.1/console-rust_0.1.1_x64-setup.nsis.zip"
+      "url": "https://github.com/sinister296/console-rust/releases/download/v0.1.1/console-rust_0.1.1_x64-setup.nsis.zip"
     }
   }
 }
